@@ -8,6 +8,7 @@ function Main() {
     <>
       <ImageComponent />
       <VideoComponent />
+      <VideoComponent />
       {/* <ParagraphsComponent /> почему то не видит его*/}
       <ParagraphsComponent />
       {/* <ListsComponent /> */}
